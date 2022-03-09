@@ -1,7 +1,10 @@
-# Vue 3 + Vite
+# Products list using vue3
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This project it's just practice of vue3 composition-api, I use for now these Technologys:
 
+- vue-router 
+- axios (to fetch fake data api with more speed)
+- vite (it's great tools for developement)
 ## Recommended IDE Setup
 
 - [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
